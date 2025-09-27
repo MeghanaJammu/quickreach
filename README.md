@@ -1,3 +1,8 @@
+This repo is made for deployment purpose, our main repo is here
+
+https://github.com/ShikharMishra16/QuickReach
+
+
 # QuickReach - Shortest Path Finder 
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
